@@ -231,7 +231,7 @@ int main(){
             system("pause");
 
        }//FIM SWITCH
-    }while(opcao != 0);//CONDIÇÃO DE PARADA DO WHILE
+    }while(opcao != 5);//CONDIÇÃO DE PARADA DO WHILE
 
 
   return 0;
