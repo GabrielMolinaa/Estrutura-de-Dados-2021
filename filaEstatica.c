@@ -67,7 +67,7 @@ int desenfileira(FilaEstatica *fila){
             printf("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n");
    }else{
             printf("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n");
-            printf("FILA VAZIA - IMPOSSIVEL REMOVER!\n",temp);
+            printf("FILA VAZIA - IMPOSSIVEL REMOVER!\n");
             printf("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n");
           }//else
 
