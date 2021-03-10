@@ -101,7 +101,7 @@ int primeiroElemento(FilaEstatica *fila){
 }//fim primeiroElemento;
 
 int ultimoElemento(FilaEstatica *fila){
-  if(!estaVazia(fila)){//caso a pilha não esteja vazia, exibe o ultimo elemento
+  if(!estaVazia(fila)){//caso a fila não esteja vazia, exibe o ultimo elemento
       printf("Ultimo Elemento: [%i]\n\n",fila->array[fila->fim]);
 
     }else printf("Ultimo Elemento: [VAZIA]\n\n");//se a fila estiver vazia, exibe VAZIA;
