@@ -109,7 +109,7 @@ int ultimoElemento(FilaEstatica *fila){
 }//fim ultimoElemento;
 
 
-int menu(FilaEstatica *fila){
+void menu(FilaEstatica *fila){
 
   system("cls");//LIMPAR TELA
       printf("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=\n");
